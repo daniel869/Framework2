@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PRUEBA</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <header>
+        <div class="textos">
+            <h1 class="titulo">Prevencion de riesgo</h1>
+            <h3 class="subtitulo">Desarrollando mejores caca para su seguridad</h3>
+            <a href="#" class="boton">Registrate</a>
+        </div>
+        <div class="sesgoabajo"></div> 
+    </header>
+    <main>
+        <section class="acerca-de">
+            <div class="contenedor">
+                <h2 class="sobre-nosotros">sobre nosotros</h2>
+                <h3 class="slogan">heheheheheh</h3>
+                <p class="parrafo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus illum unde nisi aliquam quo tempora optio ipsam saepe iste quae temporibus quos quaerat, animi omnis, quidem amet mollitia. Adipisci praesentium nisi unde pariatur. Itaque omnis unde optio incidunt ratione, sequi in laborum impedit pariatur ipsam dignissimos, a consequatur, cum nulla.</p>
+                <p class="parrafo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam ipsum, eos ea doloremque minima eum fugiat amet dolor nihil debitis laudantium ratione corporis molestias rerum aspernatur consequuntur illum adipisci voluptates dolores nam facere perferendis? Modi vel quis explicabo commodi tempora dignissimos assumenda doloremque magnam optio voluptas, id sunt amet libero?</p> 
+                <a href="#" class="boton">Registrate</a>
+            </div>
+        </section>
+        <section class="galeria">
+            <div class="sesgoarriba"></div> 
+           <div class="imagenes nome"><img src="img/1.jpg" alt="">
+        </div>
+           <div class="imagenes"><img src="img/2.jpg" alt="">
+        </div>
+        
+           <div class="imagenes"><img src="img/3.jpg" alt="">
+         <div class="encima">
+            <h2>PREVENCION DE RIESGO</h2>
+        </div>   
+        </div>
+           <div class="imagenes"><img src="img/4.jpg" alt="">
+             
+        </div>
+          
+           <div class="imagenes nome"><img src="img/5.jpg" alt="">
+        </div> 
+        
+           <div class="sesgoabajo"></div> 
+        </section>
+        <section class="miembro">
+            <div class="contenedor">
+                <h2 class="sobre-nosotros">nuestro equipo</h2>
+                <h3 class="slogan">Conoce a nuestro equipo de trabajo</h3>
+                <div class="cards">
+                    <div class="card">
+                        <img src="img/logo.jpg" alt="">
+                        <h4>Seguridad</h4>
+                        <p>Lorem ipsum dolor sit.</p>
+                    </div>
+                    <div class="card">
+                        <img src="img/logo.jpg" alt="">
+                        <h4>Seguridad</h4>
+                        <p>Lorem ipsum dolor sit.</p>
+                    </div>
+                    <div class="card">
+                        <img src="img/logo.jpg" alt="">
+                        <h4>Seguridad</h4>
+                        <p>Lorem ipsum dolor sit.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="fondo">
+            <div class="sesgoarriba"></div> 
+           <div class="contenedor">
+               <h2 class="titulo-patrocinadores">nuestros clientes</h2>
+               <h3 class="subtitulo-patrocinadores">Conoce a algunos de nuestros patrocinadores</h3>
+               <div class="clientes">
+                   <div class="clientes"><img src="img/logo2.jpg" alt=""></div>
+                   <div class="clientes"><img src="img/logo2.jpg" alt=""></div>
+                   <div class="clientes"><img src="img/logo2.jpg" alt=""></div>
+               </div>
+               <h3 class="subtitulo-patrocinadores especial">y muchos màs clientes</h3>
+           </div>
+           <div class="sesgoabajo-unico"></div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor">
+            <h2 class="titulo-footer">contactanos</h2>
+            <h3 class="subtitulo-footer">Lo apreciarimos mucho</h3>
+            <div class="footer">
+                <form action="">
+                    <input type="text" name="" id="" placeholder="Nombre">
+                    <input type="email" name="" id="" placeholder="Email">
+                    <textarea name="" id="" cols="30" rows="10" placeholder="Ingrese Su Mensaje!! CTMM"></textarea>
+                    <input type="submit" value="Enviar">
+                </form>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
